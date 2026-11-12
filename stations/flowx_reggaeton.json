@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "id": "flowx_reggaeton",
+  "name": "Flow X Radio Reggaeton",
+  "description": "West Coast Latin urban flavor.",
+  "tags": ["reggaeton", "latin"],
+  "streams": [
+    {
+      "id": "main",
+      "name": "Main",
+      "url": "https://securestreams.autopo.st:1217/stream.mp3",
+      "codec": "mp3"
+    }
+  ],
+  "metadata": {
+    "type": "static",
+    "title": "Flow X",
+    "artist": "Various"
+  }
+}
