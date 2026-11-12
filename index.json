@@ -7,7 +7,7 @@
     { "id": "flowx_reggaeton", "manifest_url": "./stations/flowx_reggaeton.json" },
     { "id": "radio_brazil", "manifest_url": "./stations/radio_brazil.json" },
     { "id": "mega_fm", "manifest_url": "./stations/mega_fm.json" },
-    { "id": "cabeca_velha", "manifest_url": "./stations/cabeca_velha.json" },
+    { "id": "cabeca_do_velho", "manifest_url": "./stations/cabeca_velha.json" },
     { "id": "radio_norte", "manifest_url": "./stations/radio_norte.json" }
   ]
 }
