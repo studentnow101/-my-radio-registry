@@ -1,0 +1,11 @@
+{
+  "registry_name": "My Latin & African Radio",
+  "description": "Brazilian, Reggaeton, Kizomba and Mozambican radio stations.",
+  "stations": [
+    { "id": "tuga_fm", "manifest_url": "./stations/tuga_fm.json" },
+    { "id": "reggaetonhits", "manifest_url": "./stations/reggaetonhits.json" },
+    { "id": "flowx_reggaeton", "manifest_url": "./stations/flowx_reggaeton.json" },
+    { "id": "radio_brazil", "manifest_url": "./stations/radio_brazil.json" },
+    { "id": "mega_fm", "manifest_url": "./stations/mega_fm.json" }
+  ]
+}
