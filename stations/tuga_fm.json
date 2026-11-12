@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "id": "tuga_fm",
+  "name": "Tuga FM",
+  "streams": [
+    {
+      "id": "main",
+      "name": "Main",
+      "url": "https://stream.laut.fm/tugafm",
+      "codec": "mp3"
+    }
+  ]
+}
