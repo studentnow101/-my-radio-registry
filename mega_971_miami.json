@@ -1,0 +1,1 @@
+{"schema_version": "1.0", "id": "mega_971_miami", "name": "Mega 97.1 Miami", "streams": [{"id": "main", "name": "Main", "url": "https://stream.revma.ihrhls.com/zc69/hls.m3u8", "codec": "m3u8"}]}
