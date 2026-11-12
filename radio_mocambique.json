@@ -1,0 +1,1 @@
+{"schema_version": "1.0", "id": "radio_mocambique", "name": "Radio Mocambique", "streams": [{"id": "main", "name": "Main", "url": "https://stream.zeno.fm/f1bgph3ve0quv", "codec": "mp3"}]}
