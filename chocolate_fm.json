@@ -1,6 +1,8 @@
 {
+  "schema_version": "1.0",
   "id": "chocolate_fm",
   "name": "Chocolate FM",
+  "description": "Chocolate FM live radio.",
   "streams": [
     {
       "id": "main",
