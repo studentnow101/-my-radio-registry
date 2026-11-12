@@ -1,0 +1,1 @@
+{"schema_version": "1.0", "id": "rdp_africa", "name": "RDP Africa", "streams": [{"id": "main", "name": "Main", "url": "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8", "codec": "m3u8"}]}
