@@ -1,34 +1,13 @@
 {
-  "registry_name": "Passada, Kizomba & Reggaeton",
-  "description": "Mozambique, Portugal, and Latin Urban radio.",
+  "registry_name": "My Radio",
+  "description": "Stations",
   "stations": [
-    {
-      "id": "chocolate_fm",
-      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoiY2hvY29sYXRlX2ZtIiwibmFtZSI6IkNob2NvbGF0ZSBGTSAoUmVnZ2FldG9uKSIsInN0cmVhbXMiOlt7ImlkIjoibWFpbiIsIm5hbWUiOiJNYWluIiwidXJsIjoiaHR0cDovL3N0cmVhbWluZzUuZWxpdGVjb211bmljYWNpb24uZXM6ODA4Mi9saXZlLm1wMyIsImNvZGVjIjoibXAzIn1dfQ=="
-    },
-    {
-      "id": "latina_reggaeton",
-      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoibGF0aW5hX3JlZ2dhZXRvbiIsIm5hbWUiOiJMYXRpbmEgUmVnZ2FldG9uIiwic3RyZWFtcyI6W3siaWQiOiJtYWluIiwibmFtZSI6Ik1haW4iLCJ1cmwiOiJodHRwOi8vbGF0aW5hcmVnZ2FldG9uLmljZS5pbmZvbWFuaWFrLmNoL2xhdGluYXJlZ2dhZXRvbi5tcDMiLCJjb2RlYyI6Im1wMyJ9XX0="
-    },
-    {
-      "id": "la_mega_medellin",
-      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoibGFfbWVnYV9tZWRlbGxpbiIsIm5hbWUiOiJMYSBNZWdhIDkyLjkgKE1lZGVsbMOtbikiLCJzdHJlYW1zIjpbeyJpZCI6Im1haW4iLCJuYW1lIjoiTWFpbiIsInVybCI6Imh0dHBzOi8vdXMtYjQtcC1lLXFnMTItYXVkaW8uY2RuLm1kc3RybS5jb20vbGl2ZS1hdWRpby1hdy82MzJjYjQ4ZjYxM2JhYzA4NTZiOTMxYWIiLCJjb2RlYyI6Im1wMyJ9XX0="
-    },
-    {
-      "id": "mega_971_miami",
-      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoibWVnYV85NzFfbWlhbWkiLCJuYW1lIjoiTWVnYSA5Ny4xIChNaWFtaSkiLCJzdHJlYW1zIjpbeyJpZCI6Im1haW4iLCJuYW1lIjoiTWFpbiIsInVybCI6Imh0dHBzOi8vc3RyZWFtLnJldm1hLmlocmhscy5jb20vemM2OS9obHMubTN1OCIsImNvZGVjIjoibTN1OCJ9XX0="
-    },
-    {
-      "id": "radio_mocambique",
-      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoicmFkaW9fbW9jYW1iaXF1ZSIsIm5hbWUiOiJSw6FkaW8gTW/Dp2FtYmlxdWUgQW50ZW5hIE5hY2lvbmFsIiwic3RyZWFtcyI6W3siaWQiOiJtYWluIiwibmFtZSI6Ik1haW4iLCJ1cmwiOiJodHRwczovL3N0cmVhbS56ZW5vLmZtL2YxYmdwaDN2ZTBxdXYiLCJjb2RlYyI6Im1wMyJ9XX0="
-    },
-    {
-      "id": "rfm_portugal",
-      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoicmZtX3BvcnR1Z2FsIiwibmFtZSI6IlJGTSBQb3J0dWdhbCIsInN0cmVhbXMiOlt7ImlkIjoibWFpbiIsIm5hbWUiOiJNYWluIiwidXJsIjoiaHR0cHM6Ly8yNTQ0My5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbS9SRk1fUE9SVFVHQUxBQUMuYWFjIiwiY29kZWMiOiJhYWMifV19"
-    },
-    {
-      "id": "rdp_africa",
-      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoicmRwX2FmcmljYSIsIm5hbWUiOiJSRFAgw4FmcmljYSAoS2l6b21iYSAmIFBvcnR1Z3Vlc2UpIiwic3RyZWFtcyI6W3siaWQiOiJtYWluIiwibmFtZSI6Ik1haW4iLCJ1cmwiOiJodHRwczovL3N0cmVhbWluZy1saXZlLnJ0cC5wdC9saXZlcmFkaW8vcmRwYWZyaWNhODBhL3BsYXlsaXN0Lm0zdTgiLCJjb2RlYyI6Im0zdTgifV19"
-    }
+    { "id": "chocolate_fm", "manifest_url": "./chocolate_fm.json" },
+    { "id": "latina_reggaeton", "manifest_url": "./latina_reggaeton.json" },
+    { "id": "la_mega_medellin", "manifest_url": "./la_mega_medellin.json" },
+    { "id": "mega_971_miami", "manifest_url": "./mega_971_miami.json" },
+    { "id": "radio_mocambique", "manifest_url": "./radio_mocambique.json" },
+    { "id": "rfm_portugal", "manifest_url": "./rfm_portugal.json" },
+    { "id": "rdp_africa", "manifest_url": "./rdp_africa.json" }
   ]
 }
