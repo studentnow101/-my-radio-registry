@@ -1,5 +1,14 @@
 {
+  "schema_version": "1.0",
   "id": "la_mega_medellin",
   "name": "La Mega Medellín",
-  "streams": []
+  "description": "La Mega Medellín live radio.",
+  "streams": [
+    {
+      "id": "main",
+      "name": "Main stream",
+      "url": "https://mdstrm.com/audio/632cb48f613bac0856b931ab/live.m3u8",
+      "codec": "hls"
+    }
+  ]
 }
