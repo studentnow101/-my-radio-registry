@@ -1,6 +1,8 @@
 {
+  "schema_version": "1.0",
   "id": "latina_reggaeton",
   "name": "Latina Reggaeton",
+  "description": "Latin reggaeton music.",
   "streams": [
     {
       "id": "main",
