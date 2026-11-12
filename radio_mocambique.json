@@ -1,12 +1,13 @@
 {
+  "schema_version": "1.0",
   "id": "radio_mocambique",
   "name": "Rádio Moçambique",
+  "description": "Rádio Moçambique live radio.",
   "streams": [
     {
       "id": "main",
       "name": "Main stream",
-      "url": "https://stream.zeno.fm/f1bgph3ve0quv",
-      "codec": "unknown"
+      "url": "https://stream.zeno.fm/f1bgph3ve0quv"
     }
   ]
 }
