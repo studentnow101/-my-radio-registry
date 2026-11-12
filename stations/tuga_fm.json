@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "id": "tuga_fm",
+  "name": "Tuga FM",
+  "description": "Portuguese station: Kizomba, Reggaeton, House.",
+  "tags": ["kizomba", "reggaeton", "portuguese"],
+  "streams": [
+    {
+      "id": "main",
+      "name": "Main",
+      "url": "https://stream.laut.fm/tugafm",
+      "codec": "mp3"
+    }
+  ],
+  "metadata": {
+    "type": "static",
+    "title": "Tuga FM",
+    "artist": "Various"
+  }
+}
