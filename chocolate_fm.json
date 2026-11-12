@@ -1,0 +1,1 @@
+{"schema_version": "1.0", "id": "chocolate_fm", "name": "Chocolate FM", "streams": [{"id": "main", "name": "Main", "url": "http://streaming5.elitecomunicacion.es:8082/live.mp3", "codec": "mp3"}]}
