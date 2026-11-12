@@ -2,12 +2,33 @@
   "registry_name": "My Radio",
   "description": "Stations",
   "stations": [
-    { "id": "chocolate_fm", "manifest_url": "./chocolate_fm.json" },
-    { "id": "latina_reggaeton", "manifest_url": "./latina_reggaeton.json" },
-    { "id": "la_mega_medellin", "manifest_url": "./la_mega_medellin.json" },
-    { "id": "mega_971_miami", "manifest_url": "./mega_971_miami.json" },
-    { "id": "radio_mocambique", "manifest_url": "./radio_mocambique.json" },
-    { "id": "rfm_portugal", "manifest_url": "./rfm_portugal.json" },
-    { "id": "rdp_africa", "manifest_url": "./rdp_africa.json" }
+    {
+      "id": "chocolate_fm",
+      "manifest_url": "./chocolate_fm.json"
+    },
+    {
+      "id": "latina_reggaeton",
+      "manifest_url": "./latina_reggaeton.json"
+    },
+    {
+      "id": "la_mega_medellin",
+      "manifest_url": "./la_mega_medellin.json"
+    },
+    {
+      "id": "mega_971_miami",
+      "manifest_url": "./mega_971_miami.json"
+    },
+    {
+      "id": "radio_mocambique",
+      "manifest_url": "./radio_mocambique.json"
+    },
+    {
+      "id": "rfm_portugal",
+      "manifest_url": "./rfm_portugal.json"
+    },
+    {
+      "id": "rdp_africa",
+      "manifest_url": "./rdp_africa.json"
+    }
   ]
 }
