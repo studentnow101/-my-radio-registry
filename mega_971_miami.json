@@ -1,6 +1,8 @@
 {
+  "schema_version": "1.0",
   "id": "mega_971_miami",
   "name": "Mega 97.1 Miami",
+  "description": "Mega 97.1 Miami live radio.",
   "streams": [
     {
       "id": "main",
