@@ -1,1 +1,1 @@
-# -my-radio-registry
+# my-radio-registry
