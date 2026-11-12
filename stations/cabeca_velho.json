@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "id": "cabeca_do_velho",
+  "id": "cabeca_velha",
   "name": "Rádio Cabeça do Velho",
-  "description": "Mozambican station from Chimoio, playing Mozambican and international music.",
-  "tags": ["mozambican", "chimoio"],
+  "description": "Mozambican station from Chimoio.",
+  "tags": ["mozambican"],
   "streams": [
     {
       "id": "main",
