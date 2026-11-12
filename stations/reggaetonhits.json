@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "id": "reggaetonhits",
+  "name": "ReggaetonHits.Fm",
+  "description": "Non-stop Reggaeton hits from Miami.",
+  "tags": ["reggaeton", "latin"],
+  "streams": [
+    {
+      "id": "main",
+      "name": "Main",
+      "url": "https://streaming.radio.co/s529b80e3a/listen",
+      "codec": "mp3"
+    }
+  ],
+  "metadata": {
+    "type": "static",
+    "title": "ReggaetonHits",
+    "artist": "Various"
+  }
+}
