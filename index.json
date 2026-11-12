@@ -2,12 +2,40 @@
   "registry_name": "My Latin & African Radio",
   "description": "Brazilian, Reggaeton, Kizomba and Mozambican radio stations.",
   "stations": [
-    { "id": "tuga_fm", "manifest_url": "./stations/tuga_fm.json" },
-    { "id": "reggaetonhits", "manifest_url": "./stations/reggaetonhits.json" },
-    { "id": "flowx_reggaeton", "manifest_url": "./stations/flowx_reggaeton.json" },
-    { "id": "radio_brazil", "manifest_url": "./stations/radio_brazil.json" },
-    { "id": "mega_fm", "manifest_url": "./stations/mega_fm.json" },
-    { "id": "cabeca_do_velho", "manifest_url": "./stations/cabeca_velha.json" },
-    { "id": "radio_norte", "manifest_url": "./stations/radio_norte.json" }
+    {
+      "id": "tuga_fm",
+      "name": "Tuga FM",
+      "streams": [
+        { "id": "main", "name": "Main", "url": "https://stream.laut.fm/tugafm" }
+      ]
+    },
+    {
+      "id": "reggaetonhits",
+      "name": "ReggaetonHits.Fm",
+      "streams": [
+        { "id": "main", "name": "Main", "url": "https://streaming.radio.co/s529b80e3a/listen" }
+      ]
+    },
+    {
+      "id": "flowx_reggaeton",
+      "name": "Flow X Radio Reggaeton",
+      "streams": [
+        { "id": "main", "name": "Main", "url": "https://securestreams.autopo.st:1217/stream.mp3" }
+      ]
+    },
+    {
+      "id": "radio_brazil",
+      "name": "Radio Brazil",
+      "streams": [
+        { "id": "main", "name": "Main", "url": "https://servidor37-5.brlogic.com:8830/live" }
+      ]
+    },
+    {
+      "id": "mega_fm",
+      "name": "Mega FM",
+      "streams": [
+        { "id": "main", "name": "Main", "url": "https://servidor24-4.brlogic.com:7066/live" }
+      ]
+    }
   ]
 }
