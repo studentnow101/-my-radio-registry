@@ -2,10 +2,25 @@
   "registry_name": "My Latin & African Radio",
   "description": "Brazilian, Reggaeton, Kizomba and Mozambican radio stations.",
   "stations": [
-    { "id": "tuga_fm", "manifest_url": "./stations/tuga_fm.json" },
-    { "id": "reggaetonhits", "manifest_url": "./stations/reggaetonhits.json" },
-    { "id": "flowx_reggaeton", "manifest_url": "./stations/flowx_reggaeton.json" },
-    { "id": "radio_brazil", "manifest_url": "./stations/radio_brazil.json" },
-    { "id": "mega_fm", "manifest_url": "./stations/mega_fm.json" }
+    {
+      "id": "tuga_fm",
+      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoidHVnYV9mbSIsIm5hbWUiOiJUdWdhIEZNIiwic3RyZWFtcyI6W3siaWQiOiJtYWluIiwibmFtZSI6Ik1haW4iLCJ1cmwiOiJodHRwczovL3N0cmVhbS5sYXV0LmZtL3R1Z2FmbSIsImNvZGVjIjoibXAzIn1dfQ=="
+    },
+    {
+      "id": "reggaetonhits",
+      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoicmVnZ2FldG9uaGl0cyIsIm5hbWUiOiJSZWdnYWV0b25IaXRzLkZtIiwic3RyZWFtcyI6W3siaWQiOiJtYWluIiwibmFtZSI6Ik1haW4iLCJ1cmwiOiJodHRwczovL3N0cmVhbWluZy5yYWRpby5jby9zNTI5YjgwZTNhL2xpc3RlbiIsImNvZGVjIjoibXAzIn1dfQ=="
+    },
+    {
+      "id": "flowx_reggaeton",
+      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoiZmxvd3hfcmVnZ2FldG9uIiwibmFtZSI6IkZsb3cgWCBSYWRpbyBSZWdnYWV0b24iLCJzdHJlYW1zIjpbeyJpZCI6Im1haW4iLCJuYW1lIjoiTWFpbiIsInVybCI6Imh0dHBzOi8vc2VjdXJlc3RyZWFtcy5hdXRvcG8uc3Q6MTIxNy9zdHJlYW0ubXAzIiwiY29kZWMiOiJtcDMifV19"
+    },
+    {
+      "id": "radio_brazil",
+      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoicmFkaW9fYnJhemlsIiwibmFtZSI6IlJhZGlvIEJyYXppbCIsInN0cmVhbXMiOlt7ImlkIjoibWFpbiIsIm5hbWUiOiJNYWluIiwidXJsIjoiaHR0cHM6Ly9zZXJ2aWRvcjM3LTUuYnJsb2dpYy5jb206ODgzMC9saXZlIiwiY29kZWMiOiJtcDMifV19"
+    },
+    {
+      "id": "mega_fm",
+      "manifest_url": "data:application/json;base64,eyJzY2hlbWFfdmVyc2lvbiI6IjEuMCIsImlkIjoibWVnYV9mbSIsIm5hbWUiOiJNZWdhIEZNIiwic3RyZWFtcyI6W3siaWQiOiJtYWluIiwibmFtZSI6Ik1haW4iLCJ1cmwiOiJodHRwczovL3NlcnZpZG9yMjQtNC5icmxvZ2ljLmNvbTo3MDY2L2xpdmUiLCJjb2RlYyI6Im1wMyJ9XX0="
+    }
   ]
 }
